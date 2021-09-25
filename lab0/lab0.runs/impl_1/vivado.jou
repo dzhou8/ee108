@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Sep 23 15:36:33 2021
+# Process ID: 30493
+# Current directory: /home/deanzhou/Desktop/Stanford/Junior/Fall/EE 108/Labs/lab0/lab0.runs/impl_1
+# Command line: vivado -log lab0_top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source lab0_top.tcl -notrace
+# Log file: /home/deanzhou/Desktop/Stanford/Junior/Fall/EE 108/Labs/lab0/lab0.runs/impl_1/lab0_top.vdi
+# Journal file: /home/deanzhou/Desktop/Stanford/Junior/Fall/EE 108/Labs/lab0/lab0.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source lab0_top.tcl -notrace
